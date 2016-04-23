@@ -1,0 +1,57 @@
+Old Dish List:
+
+  Appetizers:
+
+    Burrata {"pom redux", "burrata ball", "acorn squash", "frisee", "Pom seeds", "kale pesto", "black pepper"}
+
+    Roasted Carrots {"pistachio butter", "roasted carrots", "", ""}
+
+    Rabbit Terrine {"", "", ""}
+
+  Salads:
+
+    Beet Salad
+    Kale Salad
+
+Sandwiches
+
+New Dish list:
+
+  Salads:
+
+    Spring Greens {"herbed goat cheese", "baby fennel", "shaved yellow beets", "shaved red beets", "beet vinaigrette", "fennel brittle"}
+
+    Burrata {"Pom Redux", "burrata ball", "acorn squash", "frisee", "Pom seeds", "kale pesto", "black pepper"}
+
+    Shaved Vegetable Salad {"", "", ""}
+
+  Small Plates:
+
+    Crudo 
+
+    Soup of the Day 
+
+    Lamb Meatballs 
+
+    Spring Vegetable Tart 
+
+    Meat Board 
+
+    Cheese Board
+
+  Large Plates:
+
+    Meatloaf Sandwich
+
+    Roasted Half Chicken
+
+    Braised Short Ribs {"", "", ""}
+
+    Pork Belly {"", "", ""}
+
+    Albacore Tuna {"", "", ""}
+
+
+
+
+
