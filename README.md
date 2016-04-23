@@ -1,3 +1,3 @@
-## food-list
-# This is my 'List of Foods'
+# food-list
+## This is my 'List of Foods'
 More to folow...
