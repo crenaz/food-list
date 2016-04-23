@@ -1,0 +1,15 @@
+{
+  "name": "food-list",
+  "version": "1.0.0",
+  "description": "List of Food",
+  "main": "food-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Food",
+    "Lists"
+  ],
+  "author": "crenaz@gmail.com",
+  "license": "ISC"
+}
