@@ -4,8 +4,8 @@
   "description": "List of Food",
   "main": "food-list.js",
   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node food-list.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node food-list.js"
   },
   "keywords": [
     "Food",
@@ -14,6 +14,6 @@
   "author": "crenaz@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.19.2"
   }
 }
