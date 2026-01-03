@@ -1,8 +1,12 @@
-var express = require('express');
+var express = require("express");
 
 var app = express();
 
-app.use(require('./controllers/index'));
-app.use(require('./controllers/test'));
+const port = process.env.port || 3000
 
-app.listen(process.env.PORT);
+app.use(require("./controllers/index"));
+app.use(require("./controllers/test"));
+
+app.listen(process.env.PORT, () => {
+  console.log(`Server started on PORT:${process.env.PORT} in ${process.env.NODE_ENV} node.`);
+});
