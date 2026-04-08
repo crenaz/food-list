@@ -11,7 +11,7 @@
     "Food",
     "Lists"
   ],
-  "author": "crenaz@gmail.com",
+  "author": "crenaz",
   "license": "ISC",
   "dependencies": {
     "express": "^4.22.1"
